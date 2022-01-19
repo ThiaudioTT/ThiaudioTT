@@ -39,10 +39,9 @@ See more in my <a href="https://thiaudiott.github.io/">website</a>.
 
 </tr>
 </table>
+<img alt="Top languages" width="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaudioTT&layout=compact&theme=chartreuse-dark">
 
 </div>
 
 <br>
-<img alt="Github stats" align="center" width="260px" src="https://github-readme-stats.vercel.app/api?username=ThiaudioTT&count_private=true&show_icons=true&theme=chartreuse-dark"> 
 
-<img alt="Top languages" width="240" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaudioTT&layout=compact&theme=chartreuse-dark">
