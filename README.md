@@ -43,6 +43,6 @@ See more in my <a href="https://thiaudiott.github.io/">website</a>.
 </div>
 
 <br>
-<img alt="Github stats" align="left" width="260px" src="https://github-readme-stats.vercel.app/api?username=ThiaudioTT&count_private=true&show_icons=true&theme=chartreuse-dark"> 
+<img alt="Github stats" align="center" width="260px" src="https://github-readme-stats.vercel.app/api?username=ThiaudioTT&count_private=true&show_icons=true&theme=chartreuse-dark"> 
 
-<img alt="Top languages" width="240" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaudioTT&layout=compact&theme=chartreuse-dark">
+<img alt="Top languages" width="240" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaudioTT&layout=compact&theme=chartreuse-dark">
