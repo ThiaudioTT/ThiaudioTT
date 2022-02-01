@@ -9,8 +9,6 @@ I am a autodidact.
 
 See more in my <a href="https://thiaudiott.github.io/">website</a>.
 
-<br>
-
 ##### Technologies I like:
 
 <table>
@@ -43,8 +41,5 @@ See more in my <a href="https://thiaudiott.github.io/">website</a>.
 #
 
 <img alt="Top languages" width="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiaudioTT&layout=compact&theme=chartreuse-dark">
-
 <br>
-
-<img src="./img/neptune.gif" width="120px">
 </div>
