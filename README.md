@@ -3,7 +3,7 @@ $ Thiago Araújo
 
 $ Student
 
-Can we have a polite conversation?
+can we have a polite conversation?
 ```
 <hr>
 
