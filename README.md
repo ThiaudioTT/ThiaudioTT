@@ -1,11 +1,3 @@
-<div align="left">
+$ Thiago Araújo
 
-<div style="background: black">
-<p style="color: green"> 
-    $>Thiago Araújo
-    <br>
-    $>Student
-</p>
-</div>
-
-</div>
+$ Student
