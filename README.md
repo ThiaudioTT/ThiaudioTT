@@ -4,7 +4,7 @@
 border-radius: 9px;
 width: 100vw;
 height: 50vh;
-object-fit: cover;
+object-fit: none;
 ">
 
 </div>
