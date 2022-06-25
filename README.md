@@ -1,19 +1,10 @@
-<html>
+<div style="text-align: center;">
 
-<style>
-    div {
-        text-align: center;
-    }
+<img src="img/reisen.jpg" style="
+border-radius: 9px;
+width: 100vw;
+height: 50vh;
+object-fit: cover;
+">
 
-    img { 
-        border-radius: 9px;
-        width: 100vw;
-        height: 50vh;
-        object-fit: cover;
-    }
-
-</style>
-<div>
-<img src="img/reisen.jpg">
 </div>
-</html>
