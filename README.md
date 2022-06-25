@@ -2,9 +2,7 @@
 
 <img src="img/reisen.jpg" style="
 border-radius: 9px;
-width: 100vw;
-height: 50vh;
-object-fit: none;
+width: 80%;
 ">
 
 </div>
