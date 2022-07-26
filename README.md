@@ -11,9 +11,9 @@
                 「 A fullstack developer 」
                 <br>
                 <br>
+                λ
         </samp>
-        <!--
-        <hr>!-->
+        <hr>
 </p>
 <p align="center">
         <!-- Tech Stack -->
@@ -23,7 +23,7 @@
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
         <br>
         <br>
-        <a href="https://leetcode.com/ThiaudioTT/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow">
+        <a href="https://leetcode.com/ThiaudioTT/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow">
         </a>
 </p>
 <!--
