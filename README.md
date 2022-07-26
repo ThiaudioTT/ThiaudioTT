@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hello! I'am
+        <samp>&gt; Hello! I'm
                 <b><a target="_blank" href="#">Thiago</a></b>
         </samp>
 </h3>
@@ -8,18 +8,14 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I am a fullstack developer 」
+                「 A fullstack developer 」
                 <br>
                 <br>
         </samp>
-        <hr>
+        <!--
+        <hr>!-->
 </p>
 <p align="center">
-        <samp>
-        Tech stack and social
-        <br>
-        <br>
-        </samp>
         <!-- Tech Stack -->
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
