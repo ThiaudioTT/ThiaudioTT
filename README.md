@@ -30,4 +30,6 @@
         <a href="https://leetcode.com/ThiaudioTT/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow">
         </a>
 </p>
+<!--
 <img src="img/reisen.jpg" style="border-radius: 9px; align=center; width=200px">
+-->
