@@ -25,6 +25,8 @@
         <br>
         <a href="https://leetcode.com/ThiaudioTT/" target="_blank"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow">
         </a>
+        <br>
+        <img src="https://www.codewars.com/users/ThiaudioTT/badges/micro">
 </p>
 <!--
 <img src="img/reisen.jpg" style="border-radius: 9px; align=center; width=200px">
