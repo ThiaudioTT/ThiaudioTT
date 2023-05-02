@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hello! I'm
+        <samp>&gt; My name's
                 <b><a target="_blank" href="#">Thiago</a></b>
         </samp>
 </h3>
@@ -15,8 +15,7 @@
         </samp>
         <hr>
 </p>
-<p align="center">
-        <!-- Tech Stack -->
+<!-- <p align="center">
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -27,7 +26,6 @@
         </a>
         <br>
         <img src="https://www.codewars.com/users/ThiaudioTT/badges/micro">
-</p>
-<!--
+</p> -->
+
 <img src="img/reisen.jpg" style="border-radius: 9px; align=center; width=200px">
--->
