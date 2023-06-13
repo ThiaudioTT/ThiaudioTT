@@ -1,3 +1,11 @@
+<!-- Banner -->
+<div align="center">
+
+<img src="img/gup4.png" width="750"/>
+
+</div>
+
+
 <h3 align="center">
         <samp>&gt; My name's
                 <b><a target="_blank" href="#">Thiago</a></b>
@@ -13,7 +21,7 @@
                 <br>
                 λ
         </samp>
-        <hr>
+<!--         <hr> -->
 </p>
 <!-- <p align="center">
         <a href="https://github.com/ThiaudioTT?tab=repositories"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -28,4 +36,4 @@
         <img src="https://www.codewars.com/users/ThiaudioTT/badges/micro">
 </p> -->
 
-<img src="img/reisen.jpg" style="border-radius: 9px; align=center; width=200px">
+<!-- <img src="img/reisen.jpg" style="border-radius: 9px; align=center; width=200px"> -->
