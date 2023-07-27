@@ -15,12 +15,15 @@
 
 <p align="center">
         <!-- Organisation  -->
-        <samp>
+<!--         <samp> -->
                 「 A fullstack developer 」
                 <br>
                 <br>
+        <i>“Specialization is for insects.”</i>
+<br><br>
                 λ
-        </samp>
+<!--         </samp> -->
+        
 <!--         <hr> -->
 </p>
 <!-- <p align="center">
